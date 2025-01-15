@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"  />
+  <img height="200" src="https://assets-us-01.kc-usercontent.com/7beb5311-75a4-0049-50f5-8f58fd55aba7/7a1ab39f-e032-47b9-aaa9-ab06f301ac80/Article_59.jpeg"  />
 </div>
 
 ###
