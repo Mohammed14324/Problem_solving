@@ -15,9 +15,7 @@ using namespace std;
 #define No cout<<"No\n";
 #define yes cout<<"yes\n";
 #define no cout<<"no\n";
-ll Log(ll n,ll m){
-    return log(m)/log(n);
-}
+
 const ll N=1e5+1;
 vector<ll> adj[N];
 ll parent[N];
