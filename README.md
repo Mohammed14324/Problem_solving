@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Mohammed and I'm a student, from Egypt</p>
+<p align="left">My name is  Mohammed and I'm a cometitive programmer, from Egypt</p>
 
 ###
 
