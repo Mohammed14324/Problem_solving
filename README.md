@@ -13,14 +13,14 @@ Each platform has its own dedicated directory, such as:
 
 ### Topic-Based Subdirectories
 Within each platform directory, solutions are grouped by topics, including but not limited to:
-- **Number Theory**: Problems involving prime numbers, modular arithmetic, GCD/LCM, etc.
-- **Graph Theory**: Solutions to problems like shortest paths, minimum spanning trees, connected components, and more.
-- **Sorting**: Techniques and algorithms like quicksort, mergesort, and custom sorting.
-- **Strings**: Pattern matching, string manipulations, and advanced string algorithms like KMP and Z-Algorithm.
-- **Dynamic Programming**: Classical DP problems such as knapsack, LIS, and matrix chain multiplication.
-- **Greedy Algorithms**: Problems solvable with a greedy approach.
-- **Data Structures**: Usage of advanced structures like segment trees, Fenwick trees, and hash maps.
-- **And More**: Other categories based on problem types.
+- **Number Theory**
+- **Graph Theory**
+- **Sorting**
+- **Strings**
+- **Dynamic Programming**
+- **Greedy Algorithms**
+- **Data Structures**
+- **And More**
 
 ## Features
 - **Language**: Most of the solutions are written in **C++** for its performance and library support in competitive programming.
