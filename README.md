@@ -1,41 +1,27 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Competitive Programming Solutions
 
-###
+This repository contains solutions from various competitive programming platforms, including **Codeforces**, **LeetCode**, and **CSES**. The solutions are well-organized by platform and further divided into topics for better accessibility and clarity.
 
-<p align="left">My name is  Mohammed and I'm a cometitive programmer, from Egypt</p>
+## Repository Structure
+The repository is structured as follows:
 
-###
+### Platform-Based Directories
+Each platform has its own dedicated directory, such as:
+- `Codeforces/`
+- `LeetCode/`
+- `CSES/`
 
-<h2 align="left">About me</h2>
+### Topic-Based Subdirectories
+Within each platform directory, solutions are grouped by topics, including but not limited to:
+- **Number Theory**: Problems involving prime numbers, modular arithmetic, GCD/LCM, etc.
+- **Graph Theory**: Solutions to problems like shortest paths, minimum spanning trees, connected components, and more.
+- **Sorting**: Techniques and algorithms like quicksort, mergesort, and custom sorting.
+- **Strings**: Pattern matching, string manipulations, and advanced string algorithms like KMP and Z-Algorithm.
+- **Dynamic Programming**: Classical DP problems such as knapsack, LIS, and matrix chain multiplication.
+- **Greedy Algorithms**: Problems solvable with a greedy approach.
+- **Data Structures**: Usage of advanced structures like segment trees, Fenwick trees, and hash maps.
+- **And More**: Other categories based on problem types.
 
-###
-
-<h4 align="left">📚 I'm currently learning competitive programing<br>🎯 Goals: be a grand master</h4>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://assets-us-01.kc-usercontent.com/7beb5311-75a4-0049-50f5-8f58fd55aba7/7a1ab39f-e032-47b9-aaa9-ab06f301ac80/Article_59.jpeg"  />
-</div>
-
-###
+## Features
+- **Language**: Most of the solutions are written in **C++** for its performance and library support in competitive programming.
+- **Optimized Solutions**: Emphasis on writing efficient and optimized code to handle large inputs within constraints.
